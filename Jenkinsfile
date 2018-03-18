@@ -7,5 +7,5 @@ node {
     stage 'test'
     echo 'test'
     stage 'deploy'
-    echo 'deploy1'
+    echo 'deploy'
   }
